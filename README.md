@@ -6,6 +6,7 @@ Daniel works at Forbes World’s Most Admired recruitment firm Robert Half where
 
 # Links
 
+- [Tech Careers Japan](https://techcareers.jp)
 - [Talent, Recruitment & Business Journal](https://danielbamford.com/talent-recruitment-business-journal/)
 - https://www.youtube.com/@danielbamfordrecruitment
 - https://www.linkedin.com/in/danielbamford/
